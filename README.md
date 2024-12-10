@@ -23,10 +23,14 @@ Initial efforts using pre-trained language models have not been successful, like
 
 The data consists of Diagnostic Questions where each question has one correct answer and three distractors. Each distractor corresponds to a specific misconception. The dataset includes:
 
-train.csv: Training data for model development, with labeled misconceptions.
-test.csv: Test data for model evaluation.
-misconception_mapping.csv: Maps MisconceptionId to its MisconceptionName.
-sample_submission.csv: Example submission format.
+train.csv: Training data for model development, with labeled misconceptions. https://1drv.ms/u/s!AmlaN4R9CsYBhrZr2gR_W_HPdguI5A?e=9jXOO6
+
+test.csv: Test data for model evaluation. https://1drv.ms/u/s!AmlaN4R9CsYBhrZp1C1KbTn2YztydA?e=6kyNz1
+
+misconception_mapping.csv: Maps MisconceptionId to its MisconceptionName. https://1drv.ms/u/s!AmlaN4R9CsYBhrZn1_IfaP9tPWlRbg?e=YtmPy4
+
+sample_submission.csv: Example submission format. https://1drv.ms/u/s!AmlaN4R9CsYBhrZo5MQPieSMeeMUNw?e=HR1GVb
+
 
 - File Details
 train.csv
